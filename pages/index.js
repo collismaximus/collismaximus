@@ -42,7 +42,7 @@ export default function Home() {
             {showTyping && <span className="text-gray-400 italic animate-pulse">sta scrivendo...</span>}
             {showMessage && (
               <span className="text-white text-base font-semibold">
-                👋 Ti va di costruire qualcosa che resta?
+                👋 Vuoi costruire qualcosa che resta?
               </span>
             )}
           </div>
