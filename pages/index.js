@@ -2,6 +2,7 @@ import Head from 'next/head';
 import { FaDownload, FaEnvelope, FaHandsHelping, FaTshirt, FaCoffee, FaInstagram, FaTiktok } from 'react-icons/fa';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Home() {
   const [showMessage, setShowMessage] = useState(false);
