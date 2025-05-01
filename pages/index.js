@@ -51,7 +51,7 @@ export default function Home() {
 
       {/* Glassmorphism con pulsanti principali + social */}
       <div className="w-full max-w-sm space-y-2 z-10 rounded-lg p-4 border border-zinc-600 bg-zinc-800/60 backdrop-blur-md">
-        <a href="#" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
+        <a href="https://aspiring-somersault-b55.notion.site/Guide-per-Costruire-1e6e0da02f828090a936cce5b4ffe542" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
           <div className="flex items-center gap-3">
             <FaDownload className="text-blue-400 w-5 h-5" />
             <span className="text-white font-medium">Guide</span>
