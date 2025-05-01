@@ -72,14 +72,14 @@ export default function Home() {
           </div>
           <span className="text-sm text-gray-400">Parliamone</span>
         </a>
-        <a href="#" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
+        <a href="https://collismaximus.printify.me/" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
           <div className="flex items-center gap-3">
             <FaTshirt className="text-blue-400 w-5 h-5" />
             <span className="text-white font-medium">Cose nostre</span>
           </div>
           <span className="text-sm text-gray-400">Portale a casa</span>
         </a>
-        <a href="#" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
+        <a href="https://buymeacoffee.com/collismaximus" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
           <div className="flex items-center gap-3">
             <FaCoffee className="text-blue-400 w-5 h-5" />
             <span className="text-white font-medium">Caffè?</span>
@@ -89,10 +89,10 @@ export default function Home() {
         <div className="border-t border-zinc-600 mt-4 pt-2">
           <p className="text-gray-400 text-xs mb-2">Seguici su:</p>
           <div className="flex gap-4">
-            <a href="#" className="flex items-center gap-1 text-xs text-white hover:text-blue-400">
+            <a href="instagram.com/collismaximus/" className="flex items-center gap-1 text-xs text-white hover:text-blue-400">
               <FaInstagram className="w-3 h-3" /> Instagram
             </a>
-            <a href="#" className="flex items-center gap-1 text-xs text-white hover:text-blue-400">
+            <a href="https://www.tiktok.com/@collismaximus00163" className="flex items-center gap-1 text-xs text-white hover:text-blue-400">
               <FaTiktok className="w-3 h-3" /> TikTok
             </a>
           </div>
