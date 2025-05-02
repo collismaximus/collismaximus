@@ -65,7 +65,7 @@ export default function Home() {
           </div>
           <span className="text-sm text-gray-400">Metti la mail</span>
         </a>
-        <a href="#" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
+        <a href="https://app.youform.com/forms/yohpfbvh" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
           <div className="flex items-center gap-3">
             <FaHandsHelping className="text-blue-400 w-5 h-5" />
             <span className="text-white font-medium">Collabora</span>
