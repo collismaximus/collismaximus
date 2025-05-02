@@ -58,7 +58,7 @@ export default function Home() {
           </div>
           <span className="text-sm text-gray-400">Scarica e costruisci</span>
         </a>
-        <a href="#" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
+        <a href="https://mailchi.mp/982778115d00/notizie-dal-colle-collis-maximus" className="flex items-center justify-between px-4 py-2 rounded-md hover:bg-zinc-700 transition">
           <div className="flex items-center gap-3">
             <FaEnvelope className="text-blue-400 w-5 h-5" />
             <span className="text-white font-medium">Notizie dal Colle</span>
@@ -89,7 +89,7 @@ export default function Home() {
         <div className="border-t border-zinc-600 mt-4 pt-2">
           <p className="text-gray-400 text-xs mb-2">Seguici su:</p>
           <div className="flex gap-4">
-            <a href="instagram.com/collismaximus/" className="flex items-center gap-1 text-xs text-white hover:text-blue-400">
+            <a href="https://instagram.com/collismaximus/" className="flex items-center gap-1 text-xs text-white hover:text-blue-400">
               <FaInstagram className="w-3 h-3" /> Instagram
             </a>
             <a href="https://www.tiktok.com/@collismaximus00163" className="flex items-center gap-1 text-xs text-white hover:text-blue-400">
