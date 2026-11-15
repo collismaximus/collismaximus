@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react';
 const videos = [
   { title: 'MCDRIVE', href: 'https://youtu.be/jgLJw6InQBE' },
   { title: 'bomarzo', href: 'https://youtu.be/3Yf5VjcBeqc' },
-  { title: 'prova a prendermi', href: 'https://youtu.be/WyLhZgbiMnI' },
+  { title: '00163', href: 'https://youtu.be/D16B8C7Bj0k' },
 ];
 const row = 'flex items-center justify-between gap-3 px-3 py-3 rounded-md hover:bg-zinc-700 transition';
 
@@ -28,7 +28,7 @@ export default function Home() {
         <div>
           <p className="text-xs text-gray-400 mb-1">Collis Maximus</p>
           <div className="px-4 py-2 rounded-2xl bg-zinc-800/70 border border-zinc-600 shadow-md" aria-live="polite">
-            {showMessage ? <span className="text-base font-semibold">Dal quartiere, cose da vedere, ascoltare e portarsi dietro.</span> : <span className="text-gray-400 italic animate-pulse">sta scrivendo...</span>}
+            {showMessage ? <span className="text-base font-semibold">Vuoi scoprire cosa nasce dal quartiere?</span> : <span className="text-gray-400 italic animate-pulse">sta scrivendo...</span>}
           </div>
         </div>
       </div>
