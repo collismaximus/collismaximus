@@ -48,7 +48,7 @@ export default function Home() {
 
         <section aria-labelledby="records-title" className="border-t border-zinc-600 pt-4">
           <div className="flex items-center gap-3 px-3"><FaMusic className="text-blue-400 w-5 h-5" aria-hidden="true" /><h2 id="records-title" className="font-medium">Collis Maximus Records</h2></div>
-          <a href="https://music.amazon.co.uk/albums/B0H3CPBTY2" className={`${row} mt-2`}><div><p className="font-medium text-sm">MATTONE dopo MATTONE</p><p className="text-xs text-gray-400 mt-1">LUCARAP &amp; ALERAP · L’album</p></div><span className="text-xs text-gray-300 shrink-0">Ascolta ↗</span></a>
+          <a href="https://open.spotify.com/album/0TSbl1XO6KlnTAxjv987JH" className={`${row} mt-2`}><div><p className="font-medium text-sm">MATTONE dopo MATTONE</p><p className="text-xs text-gray-400 mt-1">LUCARAP &amp; ALERAP · L’album</p></div><span className="text-xs text-gray-300 shrink-0">Ascolta ↗</span></a>
         </section>
 
         <div className="border-t border-zinc-600 pt-2">
